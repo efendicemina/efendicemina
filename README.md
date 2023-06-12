@@ -2,7 +2,7 @@
 <h3 align="center">Electrical Engineering Student at University of Sarajevo</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.![4f0595b0e1421428a053ff7aea868424](https://github.com/efendicemina/efendicemina/assets/115942770/b7aba27b-938c-439d-99b7-afac98ead092)
-etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
+
 
 
 <p align="justify">Motivated computer science student with a passion for exploring new places and reading books. 

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emina</h1>
 <h3 align="center">Electrical Engineering Student at University of Sarajevo</h3>
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNuMjl4OGhudWx5dXg4NWVzYTJibzU0c3U1ZzYzbnd2c245ZDJvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a4fk9aYZpyCoJbxCfx/giphy.gif"  />
 
 
 <p align="justify">Motivated computer science student with a passion for exploring new places and reading books. 
@@ -17,8 +16,8 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<div align="right">
-<img align="right" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNuMjl4OGhudWx5dXg4NWVzYTJibzU0c3U1ZzYzbnd2c245ZDJvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a4fk9aYZpyCoJbxCfx/giphy.gif"  />
+<div align="left">
+<img align="left" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNuMjl4OGhudWx5dXg4NWVzYTJibzU0c3U1ZzYzbnd2c245ZDJvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a4fk9aYZpyCoJbxCfx/giphy.gif"  />
 </div>
 
 

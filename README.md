@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emina</h1>
 <h3 align="center">Electrical Engineering Student at University of Sarajevo</h3>
 
-<img align="right" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNuMjl4OGhudWx5dXg4NWVzYTJibzU0c3U1ZzYzbnd2c245ZDJvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a4fk9aYZpyCoJbxCfx/giphy.gif"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNuMjl4OGhudWx5dXg4NWVzYTJibzU0c3U1ZzYzbnd2c245ZDJvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a4fk9aYZpyCoJbxCfx/giphy.gif"  />
 
 
 <p align="justify">Motivated computer science student with a passion for exploring new places and reading books. 

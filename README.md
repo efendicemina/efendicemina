@@ -3,7 +3,7 @@
 
 <img align="right" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNuMjl4OGhudWx5dXg4NWVzYTJibzU0c3U1ZzYzbnd2c245ZDJvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a4fk9aYZpyCoJbxCfx/giphy.gif"  />
 
-<p align="justify">Motivated computer science student with a passion 
+<p align="justify"> - Motivated computer science student with a passion 
   <br>
   for exploring new places and reading books. I have love for
   <br>
@@ -11,7 +11,7 @@
   <br>
   quick learner and am able to adapt to new situations with ease.  
   <br>
-  Additionally, I am committed to working collaboratively and 
+   - Additionally, I am committed to working collaboratively and 
   <br>
   contributing to a positive team environment.</p>
   </div>

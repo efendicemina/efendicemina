@@ -24,10 +24,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:efendicx@gmail.com?subject=My%20subject&body=My%20email%20body" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  
+      />
   </a>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efendicemina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=efendicemina&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 
